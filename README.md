@@ -120,8 +120,6 @@ The original notebook includes saved tables, charts, interpretations, and cleani
 
 The notebook metadata records Python 3.14.5. Dependencies are listed without version pins because the original package versions were not supplied; this is not a locked reproduction environment. Saved results can be viewed without rerunning the analysis.
 
-**Notebook note:** the final growth bar-chart call in the Organization Categorization section uses `org_simplified`, so it repeats the organization comparison. The section's growth tables use `org_cat_simplified` and are the basis for the organization-type values above.
-
 ## Tools and skills demonstrated
 
 Python, pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook; data auditing, cleaning, feature engineering, exploratory analysis, logarithmic transformations, visualization, and communication of uncertainty.
